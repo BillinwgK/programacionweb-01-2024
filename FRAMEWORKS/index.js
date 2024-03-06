@@ -78,3 +78,4 @@ let funcionObjeto = (arrayObjetos)=>{
         console.log(`Nombres: ${obj.name}`)})
 }
 funcionObjeto(array)
+//fin
