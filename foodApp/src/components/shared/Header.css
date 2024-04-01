@@ -1,0 +1,11 @@
+.container_header{
+    width: 100vw;
+    height: 100px;
+    background: rgb(2, 0, 36);
+    background: linear-gradient(270deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%,);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 50px;
+    padding-right: 50px;
+}
